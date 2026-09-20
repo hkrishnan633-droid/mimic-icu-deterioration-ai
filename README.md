@@ -584,6 +584,8 @@ It is **not a medical device**, has not been clinically validated, and must not 
 Model outputs represent experimental machine-learning estimates generated from retrospective data.
 
 ---
+**LICENSE**
+ Project source code is released under the MIT License. MIMIC-IV/MIMIC-IV Demo data are not distributed with this repository and remain subject to their applicable PhysioNet/MIMIC terms and conditions
 
 ## 👤 Author
 
