@@ -1,0 +1,11 @@
+metric,value
+ICU stays,99.0
+Unique patients,79.0
+Positive outcomes,18.0
+Negative outcomes,81.0
+Event rate (%),18.18
+Candidate predictors,42.0
+Clinical feature columns,42.0
+Missingness indicators,0.0
+Constant features,0.0
+Highly correlated pairs,25.0

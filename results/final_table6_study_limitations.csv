@@ -1,0 +1,8 @@
+Limitation,Implication
+Small demo cohort,Performance estimates may be unstable and are not representative of the full MIMIC-IV population.
+Few deterioration events,Only 18 events occurred in the primary 2-hour landmark cohort.
+Differential predictor availability,Sixteen of 18 positive cases had no selected physiological predictors available during the 0–2 hour observation window.
+Later dynamic landmarks,"The number of future events declined substantially at later landmarks, increasing uncertainty."
+Internal validation only,Patient-separated cross-validation evaluates internal reproducibility but does not establish external clinical validity.
+Correlated summary features,"Multiple summaries of the same physiological variable are highly correlated, so individual feature importance should not be interpreted causally."
+Clinical threshold not established,The 0.5 classification threshold was used analytically and should not be interpreted as an optimized clinical alert threshold.

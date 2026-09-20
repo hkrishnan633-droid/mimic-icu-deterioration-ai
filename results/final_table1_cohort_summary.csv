@@ -1,0 +1,8 @@
+Characteristic,Value
+ICU stays,99
+Unique patients,79
+Deterioration events,18
+Non-deterioration stays,81
+Event prevalence,18.2%
+Observation window,ICU admission to 2 h
+Prediction window,>2 h to 8 h

@@ -1,0 +1,6 @@
+design,observation_hours,prediction_end_hours,eligible_stays,unique_patients,positive_events,negative_stays,event_rate_percent
+2h → 8h,2,8,99,79,18,81,18.18
+4h → 12h,4,12,86,68,8,78,9.3
+6h → 12h,6,12,80,63,2,78,2.5
+6h → 24h,6,24,80,63,8,72,10.0
+12h → 24h,12,24,76,60,6,70,7.89
